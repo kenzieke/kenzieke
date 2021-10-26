@@ -2,7 +2,7 @@
 - 👀 I’m interested in electrical engineering.
 - 🌱 I’m currently learning how to code in different software and hardware languages.
 - 💞️ I’m looking to collaborate on cool projects.
-- 📫 How to reach me send me a message.
+- 📫 How to reach me send me an email at mkettwig@calpoly.edu
 
 <!---
 kenzieke/kenzieke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
